@@ -118,66 +118,7 @@ Early exploration of AI-integrated applications
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio
-Personal developer portfolio showcasing projects and skills, built with a focus on clean UI and performance.
-
-`React` `Tailwind CSS` `JavaScript`
-
-</td>
-<td width="50%">
-
-### 🛒 MERN E-Commerce
-An e-commerce application built on the MERN stack, covering product listings, cart functionality, and order flow.
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔐 Authentication System
-A login and access-control system implementing secure authentication and authorization flows.
-
-`Node.js` `Express.js` `MongoDB`
-
-</td>
-<td width="50%">
-
-### ⚡ Next.js Learning
-A set of projects and exercises for learning Next.js — routing, server components, and full stack patterns.
-
-`Next.js` `React` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧮 DSA Practice
-Ongoing practice and solutions for data structures and algorithms problems, organized by topic.
-
-`JavaScript` `Problem Solving`
-
-</td>
-<td width="50%">
-
-### 🤖 Future AI Projects
-Planned experiments applying AI engineering concepts to practical, user-facing applications.
-
-`AI Engineering` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## Learning Roadmap
 
@@ -189,14 +130,14 @@ Planned experiments applying AI engineering concepts to practical, user-facing a
 - [x] HTML, CSS, JavaScript fundamentals
 - [x] React and building component-based UIs
 - [x] Node.js, Express.js, and MongoDB for backend development
-- [ ] Next.js — server components, routing, and full stack architecture
-- [ ] Authentication and authorization best practices
+- [x] Next.js — server components, routing, and full stack architecture
+- [x] Authentication and authorization best practices
 - [ ] Data structures and algorithms
 - [ ] AI engineering fundamentals — APIs, prompting, and applied AI tooling
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 
 ## Achievements
 
