@@ -1,183 +1,218 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,100:1E3A8A&height=220&section=header&text=Muhammed%20Aflah&fontSize=48&fontColor=60A5FA&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                                ║
+║                    ⛏️   E N T E R I N G   W O R L D   ⛏️        ║
+║                                                                ║
+║                       M U H A M M E D   A F L A H              ║
+║                                                                ║
+║                    ⚔️  FULL STACK DEVELOPER  ⚔️                 ║
+║                                                                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<br/>
+**`AF_CODES`** • **`MERN STACK DEVELOPER`** • **`BUILDING DIGITAL WORLDS`**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Self-Taught+%26+Always+Learning;Currently+Exploring+Next.js+%26+AI+Engineering" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Spawning+into+the+world+of+code...;Mining+bugs%2C+crafting+features...;Currently+questing%3A+Next.js+%2B+AI+Engineering)
 
 </div>
 
-<br/>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+> 👋 Hey, I'm **Muhammed Aflah** — a Full Stack Developer from Kerala, India, who enjoys turning ideas into real, working applications. I build with the **MERN Stack**, and I'm currently expanding my world toward **Next.js** and modern web architecture — one block at a time.
 
-## About Me
+<br>
 
-I'm a full stack developer based in India, self-taught and continuously building my skills through hands-on projects. My work is centered on the JavaScript ecosystem — building web applications end to end, from backend APIs and databases to responsive, functional frontends.
+---
 
-I don't come from a formal computer science or industry background — everything I know has come from consistent, self-directed learning and building real projects. I'm currently deepening my understanding of Next.js, authentication systems, data structures and algorithms, and starting to explore AI engineering.
+## 🌍 WORLD — PLAYER CARD
 
-- 🎯 Goal: become a professional Full Stack Developer and AI Engineer through real-world project experience
-- 🧑‍💻 Self-taught, learning primarily by building and shipping projects
-- 📚 Currently focused on strengthening fundamentals in DSA and modern authentication patterns
-- 🤝 Open to feedback, collaboration, and opportunities to learn from experienced developers
+| 🧑 PLAYER      | DETAILS                       |
+| -------------- | ------------------------------ |
+| Name           | Muhammed Aflah                 |
+| Class          | Full Stack Developer           |
+| Main Weapon    | JavaScript ⚔️                  |
+| Current World  | MERN Stack 🌍                  |
+| Current Quest  | Next.js + AI Engineering 🧠    |
+| XP Goal        | Professional Developer 🚀      |
+| Base           | Kerala, India 🇮🇳              |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
-## Current Focus
+## ⛏️ CURRENT MISSION
+
+Progress bars below are **approximate** self-assessed indicators, not exact metrics.
+
+```text
+[████████████████░░░░] MERN Stack     — Building production-style applications
+[██████████████░░░░░░] Next.js        — Actively learning
+[██████████░░░░░░░░░░] Python         — Exploring
+[████████░░░░░░░░░░░░] DSA            — Practicing problem solving
+```
+
+---
+
+## 🧰 INVENTORY — TECH STACK
+
+| Category         | Tools                                                     |
+| ----------------- | ---------------------------------------------------------- |
+| 🎨 Frontend        | HTML, CSS, JavaScript, React, Next.js                      |
+| 🔧 Backend         | Node.js, Express.js                                        |
+| 📦 Database        | MongoDB, Mongoose                                           |
+| 🔐 Authentication  | JWT, bcrypt                                                 |
+| 💻 Languages       | JavaScript, Python                                          |
+| 🛠️ Tools          | Git, GitHub, VS Code, Postman, Thunder Client               |
+| 🌐 Deployment      | Render, Vercel                                              |
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-2ECC71?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=2ECC71)
+![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=2ECC71)
+![Express](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express&logoColor=2ECC71)
+![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=2ECC71)
+![Next.js](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=next.js&logoColor=2ECC71)
+![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=2ECC71)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=2ECC71)
+
+</div>
+
+---
+
+## ⚔️ HOTBAR — BUILDING SKILLS
+
+```text
+🧱 HTML        🧱 CSS         ⚔️ JavaScript
+⚔️ React       🔧 Node.js     🔧 Express.js
+📦 MongoDB     ⚡ Next.js     🐍 Python
+```
+
+---
+
+## 🏗️ MY BUILDS
+
+> A showcase of applications I've crafted using the MERN Stack.
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="100%">
 
-**Next.js**
-Routing, server components, and full stack app structure
+### 🧱 DEVX
+A full stack application built to explore and practice real-world development patterns using the MERN Stack — combining frontend interfaces, backend logic (Redstone), and persistent storage (Storage Chest).
 
-</td>
-<td width="25%" align="center">
-
-**Authentication**
-Secure login and access control flows
-
-</td>
-<td width="25%" align="center">
-
-**DSA**
-Building stronger problem-solving fundamentals
-
-</td>
-<td width="25%" align="center">
-
-**AI Engineering**
-Early exploration of AI-integrated applications
+**Blocks used:** React • Node.js • Express.js • MongoDB
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## Tech Stack
-
 <div align="center">
 
-**Languages & Markup**
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+📌 *More builds are currently under construction — check back soon.*
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
-## GitHub Analytics
+## 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aflahalungal77-lab&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E27&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflahalungal77-lab&layout=compact&theme=dark&hide_border=true&bg_color=0A0E27&title_color=60A5FA&text_color=C9D1D9" width="49%"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aflahalungal77-lab&show_icons=true&theme=dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9&bg_color=0d1117)
 
-<img src="https://streak-stats.demolab.com/?user=aflahalungal77-lab&theme=dark&hide_border=true&background=0A0E27&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" width="60%"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aflahalungal77-lab&layout=compact&theme=dark&hide_border=true&title_color=2ECC71&text_color=c9d1d9&bg_color=0d1117)
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aflahalungal77-lab&theme=react-dark&hide_border=true&bg_color=0A0E27&color=60A5FA&line=60A5FA&point=FFFFFF" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aflahalungal77-lab&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aflahalungal77-lab&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&background=0d1117)
 
 </div>
 
-<details>
-<summary><b>Contribution Snake</b></summary>
+---
 
-<br/>
+## 🏆 ADVANCEMENTS UNLOCKED
+
+* 🟩 Started Full Stack Development journey
+* 🟩 Built applications using the MERN Stack
+* 🟩 Worked with REST APIs (Command Blocks)
+* 🟩 Learning backend architecture (Redstone systems)
+* 🟩 Practicing Data Structures & Algorithms
+* 🟨 Exploring Next.js
+* 🟨 Exploring AI Engineering
+
+---
+
+## ⚔️ DSA QUEST
+
+> Practicing problem solving through **LeetCode**, one challenge at a time. Still early in the journey — not claiming advanced mastery, just consistent mining. ⛏️
+
+**Completed Quests:**
+
+| Quest ID | Problem Name                  |
+| -------- | ------------------------------ |
+| 1929     | Concatenation of Array         |
+| 1480     | Running Sum of 1d Array        |
+| 1470     | Shuffle the Array               |
+| 1920     | Build Array from Permutation    |
+| 1672     | Richest Customer Wealth         |
+
+---
+
+## 📜 DEVELOPER LOG
+
+```text
+> Initializing Developer World...
+
+[✓] HTML
+[✓] CSS
+[✓] JavaScript
+[✓] React
+[✓] Node.js
+[✓] Express.js
+[✓] MongoDB
+
+[>] Next.js          — in progress
+[>] AI Engineering   — exploring
+[>] DSA              — practicing
+
+> World Status: BUILDING...
+```
+
+---
+
+## 🎯 LONG-TERM MISSION
+
+My long-term mission is to grow into a professional Full Stack Developer, progressing steadily along this path:
+
+```text
+MERN Stack  →  Next.js  →  AI Engineering
+```
+
+Every project is a new build, every bug is a mob to defeat, and every day is XP toward that goal.
+
+---
+
+## 📡 ESTABLISH CONNECTION
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/aflahalungal77-lab/aflahalungal77-lab/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=2ECC71)](https://github.com/aflahalungal)
+[![Email](https://img.shields.io/badge/Email-1E1E1E?style=for-the-badge&logo=gmail&logoColor=2ECC71)](mailto:aflahalungal77@gmail.com)
+
+`LinkedIn — Coming Soon`
+`Instagram — Coming Soon`
+
 </div>
 
-> Generated via the [snk](https://github.com/Platane/snk) GitHub Action. Add the workflow to this profile repository to activate it.
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-
-
-## Learning Roadmap
-
-<details open>
-<summary><b>Focus Areas</b></summary>
-
-<br/>
-
-- [x] HTML, CSS, JavaScript fundamentals
-- [x] React and building component-based UIs
-- [x] Node.js, Express.js, and MongoDB for backend development
-- [x] Next.js — server components, routing, and full stack architecture
-- [x] Authentication and authorization best practices
-- [ ] Data structures and algorithms
-- [ ] AI engineering fundamentals — APIs, prompting, and applied AI tooling
-
-</details>
-
-
-
-## Achievements
+---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aflahalungal77-lab&color=60A5FA&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/aflahalungal77-lab?style=flat-square&color=60A5FA&labelColor=0A0E27)
-![GitHub Stars](https://img.shields.io/github/stars/aflahalungal77-lab?style=flat-square&color=60A5FA&labelColor=0A0E27)
+```text
+╔══════════════════════════════════════════════════════════════╗
+║        ⛏️  KEEP BUILDING  •  KEEP LEARNING  •  KEEP CODING  ⛏️  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/aflahalungal77-lab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=60A5FA)](https://aflah-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/muhammed-aflah-a-4827a3421)
-[![X](https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=60A5FA)](https://x.com/aflah_code)
-[![Instagram](https://img.shields.io/badge/Instagram-0A0E27?style=for-the-badge&logo=instagram&logoColor=60A5FA)](https://www.instagram.com/aflahh.a/)
-[![Gmail](https://img.shields.io/badge/Gmail-0A0E27?style=for-the-badge&logo=gmail&logoColor=60A5FA)](mailto:aflahalungal77@gmail.com)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<div align="center">
-
-### "Progress, not perfection — one commit at a time."
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0A0E27&height=120&section=footer" width="100%"/>
-
-<sub>Thanks for visiting — feel free to explore my repositories and reach out.</sub>
+⭐ **If you like my projects, consider giving them a star!**
 
 </div>
