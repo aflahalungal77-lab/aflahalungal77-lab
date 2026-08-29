@@ -1,156 +1,232 @@
 <div align="center">
 
-```text
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓▓                                                    ▓▓
-▓▓   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   ▓▓
-▓▓   ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒   ▓▓
-▓▓   ▒░░  ⛏️   W O R L D   L O A D E D   ⛏️     ░░▒   ▓▓
-▓▓   ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▒   ▓▓
-▓▓   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒   ▓▓
-▓▓                                                    ▓▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<!--
+  ============================================================
+  HERO BANNER — OPTION A (URL-based placeholder, replace this)
+  ============================================================
+  Swap the src below with your own banner image once generated
+  (see OPTION B prompt in the setup notes / delivery summary).
+  Recommended size: 1500x500 (16:9-ish wide banner).
+-->
+<img src="https://via.placeholder.com/1500x500/0a0e14/39ff88?text=AF_CODES+%7C+DEVELOPER+WORLD" alt="AF_CODES pixel-art developer world banner" width="100%" />
 
-# ⛏️ MUHAMMED AFLAH
-### FULL STACK DEVELOPER
+<br/>
 
-`AF_CODES`&nbsp;&nbsp;•&nbsp;&nbsp;`MERN STACK DEVELOPER`&nbsp;&nbsp;•&nbsp;&nbsp;`BUILDING DIGITAL WORLDS`
+# 👋 Hi, I'm Muhammed Aflah
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=55C500&center=true&vCenter=true&width=600&lines=Spawning+into+the+world+of+code...;Mining+bugs%2C+crafting+features...;Current+quest%3A+Next.js+%2B+AI+Engineering)
+### Full Stack Developer&nbsp;|&nbsp;MERN Stack&nbsp;|&nbsp;Next.js
+
+I'm a Full Stack Developer focused on building modern, scalable and user-friendly web applications. I enjoy turning ideas into real products and continuously improving my skills across frontend, backend, databases and software engineering — while steadily building toward AI Engineering.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=39ff88&labelColor=0a0e14" alt="Location: Kerala, India" />
+<img src="https://img.shields.io/badge/Stack-MERN-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=39ff88&labelColor=0a0e14" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-1a1a2e?style=for-the-badge&logo=git&logoColor=39ff88&labelColor=0a0e14" alt="Open to Collaboration" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1a1a2e?style=for-the-badge&logo=react&logoColor=39ff88&labelColor=0a0e14" alt="Full Stack Development" />
 
 </div>
 
-<br>
+<br/>
 
-> 👋 Hey, I'm **Muhammed Aflah** — a Full Stack Developer from Kerala, India. I spend my days mining bugs, crafting features, and building digital worlds with the **MERN Stack**. Right now I'm expanding my map toward **Next.js** and modern web engineering — one block at a time.
-
-<br>
-
----
-
-<br>
-
-## 🌍 PLAYER STATUS
-
-```text
-┌──────────────────────────────────────────────────┐
-│  PLAYER: Muhammed_Aflah                           │
-│  CLASS:  Full Stack Developer                     │
-│                                                    │
-│  HEALTH   ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  (Motivation: Full) │
-│  HUNGER   🍗🍗🍗🍗🍗🍗🍗🍗🍗🍗  (Curiosity: Full)  │
-│  XP LEVEL ⭐ Building Real-World Projects          │
-└──────────────────────────────────────────────────┘
+```
+┌──────────────────────────────────────────────────────────┐
+│  █▀▀ █▀▀ █▀▀ █▀█ █▀▄ █▀▀ █▀▀   █▀▀ █▀█ ▀█▀ █▀▀ █▀█ █ █▄ █ █▀▀
+│  █▀▀ █▀░ █░░ █░█ █░█ █▀▀ ▀▀█   █▀▀ █░█ ░█░ █▀▀ █▀▄ █ █░▀█ █░█
+│  ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀░ ▀▀▀ ▀▀▀   ▀▀▀ ▀░▀ ░▀░ ▀▀▀ ▀░▀ ▀ ▀░░▀ ▀▀▀
+│                                                              │
+│   > loading world...  AF_CODES.world                        │
+│   > player: Muhammed Aflah                                   │
+│   > class: Full Stack Developer                              │
+│   > current quest: MERN Stack → AI Engineering               │
+└──────────────────────────────────────────────────────────┘
 ```
 
-| 🧑 PLAYER      | DETAILS                       |
-| -------------- | ------------------------------ |
-| Name           | Muhammed Aflah                 |
-| Class          | Full Stack Developer            |
-| Main Weapon    | JavaScript ⚔️                   |
-| Current World  | MERN Stack 🌍                   |
-| Current Quest  | Next.js + AI Engineering 🧠     |
-| Base           | Kerala, India 🇮🇳               |
+<br/>
 
-<br>
+## ⛏️ About Me
 
----
+- 🚀 Full Stack Developer, building end-to-end web applications
+- ⚛️ Comfortable across React and Next.js on the frontend
+- 🟢 Backend development with Node.js and Express.js
+- 🍃 Database design and management with MongoDB
+- 🔐 Focused on authentication and API security
+- 🧠 Currently strengthening Data Structures & Algorithms
+- 🤖 Exploring AI Engineering as a long-term direction
+- 💡 Interested in building real-world, production-ready products
+- 🌍 Based in Kerala, India
 
-<br>
+<br/>
 
-## ⛏️ CURRENT MISSION — XP PROGRESS
-
-*Bars below are approximate self-assessed progress, not exact metrics.*
-
-```text
-MERN Stack   [■■■■■■■■■■■■■■■■□□□□]  Building production-style apps
-Next.js      [■■■■■■■■■■■■■□□□□□□□]  Actively learning
-Python       [■■■■■■■■■□□□□□□□□□□□]  Exploring
-DSA          [■■■■■■■□□□□□□□□□□□□□]  Practicing problem solving
-```
-
-<br>
-
----
-
-<br>
-
-## 🧱 CRAFTING TABLE — TECH STACK
-
-```text
-┌────────────┬────────────┬────────────┐
-│    🧱      │    🎨      │    ⚔️      │
-│   HTML     │    CSS     │ JavaScript │
-├────────────┼────────────┼────────────┤
-│    ⚛️      │    🔧      │    🔧      │
-│   React    │  Node.js   │  Express   │
-├────────────┼────────────┼────────────┤
-│    📦      │    ⚡      │    🐍      │
-│  MongoDB   │  Next.js   │  Python    │
-└────────────┴────────────┴────────────┘
-          ⬇️  CRAFTING RESULT  ⬇️
-        [ FULL STACK APPLICATION ]
-```
-
-| Category         | Tools                                                     |
-| ----------------- | ---------------------------------------------------------- |
-| 🎨 Frontend        | HTML, CSS, JavaScript, React, Next.js                      |
-| 🔧 Backend (Redstone) | Node.js, Express.js                                    |
-| 📦 Storage Chest   | MongoDB, Mongoose                                           |
-| 🔐 Enchantments    | JWT, bcrypt                                                 |
-| 💻 Languages       | JavaScript, Python                                          |
-| 🛠️ Tools          | Git, GitHub, VS Code, Postman, Thunder Client               |
-| 🌀 Nether Portal   | Render, Vercel                                              |
+## 🛠️ Tools & Inventory
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-3B3B3B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1E1E1E?style=for-the-badge&logo=react&logoColor=55C500)
-![Node.js](https://img.shields.io/badge/Node.js-1E1E1E?style=for-the-badge&logo=node.js&logoColor=55C500)
-![Express](https://img.shields.io/badge/Express.js-1E1E1E?style=for-the-badge&logo=express&logoColor=55C500)
-![MongoDB](https://img.shields.io/badge/MongoDB-1E1E1E?style=for-the-badge&logo=mongodb&logoColor=55C500)
-![Next.js](https://img.shields.io/badge/Next.js-1E1E1E?style=for-the-badge&logo=next.js&logoColor=55C500)
-![Python](https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=55C500)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=55C500)
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" alt="Frontend tech stack icons" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend tech stack icons" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="Database tech stack icons" />
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,java,c" alt="Programming language icons" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools icons" />
 
 </div>
 
-<br>
+<br/>
 
----
+## 🌱 Currently Learning
 
-<br>
+Progress bars below are self-assessed personal indicators, not formal certifications.
 
-## 🎒 HOTBAR — ACTIVE SKILLS
-
-```text
-[1]🧱  [2]🎨  [3]⚔️  [4]⚛️  [5]🔧  [6]🔧  [7]📦  [8]⚡  [9]🐍
-HTML   CSS    JS     React  Node   Express Mongo  Next   Python
+```
+🟩 MERN Stack             ████████████████░░░░  80%
+⚛️ Advanced React          ██████████████░░░░░░  70%
+▲  Next.js                 ████████████░░░░░░░░  60%
+🧠 DSA                     ██████████░░░░░░░░░░  50%
+🤖 AI Engineering          ██████░░░░░░░░░░░░░░  30%
 ```
 
-<br>
+<br/>
 
----
-
-<br>
-
-## 🏗️ MY BUILDS
+## 🏗️ Projects I've Built
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🧱 DEVX
+### 🛒 PrayMart
+A production-oriented ecommerce platform built for real-world usage.
 
-A full stack application built to explore real-world development patterns using the MERN Stack — combining a frontend interface, backend logic (Redstone), and persistent storage (Storage Chest).
+**Stack:** MERN · Next.js · MongoDB · Razorpay
 
-**Blocks used:** React • Node.js • Express.js • MongoDB
+**Highlights**
+- Authentication with role-based access (Customer / Partner / Admin)
+- Product management, cart, and order flows
+- Razorpay payment integration with server-side verification
+- Webhook handling for payment events
+- Admin dashboard for operations
+
+`[Live Demo]` &nbsp;·&nbsp; `[Source Code]`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 AF_CODES Portfolio
+A premium personal developer portfolio site showcasing projects, skills, and contact information.
+
+**Stack:** Next.js · React · MERN ecosystem
+
+`[Live Demo]` &nbsp;·&nbsp; `[Source Code]`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕌 Madarsa Website
+A modern educational platform built for a madarsa community.
+
+**Highlights**
+- Daily quiz section
+- Model papers and past-year resources
+- Memories, photo, and video galleries
+- About / information section
+
+`[Live Demo]` &nbsp;·&nbsp; `[Source Code]`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧱 More builds coming soon
+New quests are always in progress — more projects will be added here as they ship.
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+## 📊 Developer Stats
+
 <div align="center">
 
-📌
+<img src="https://github-readme-stats.vercel.app/api?username=aflahalungal77&show_icons=true&theme=dark&bg_color=0a0e14&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&border_color=39ff88&hide_border=false" alt="Muhammed Aflah's GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflahalungal77&layout=compact&theme=dark&bg_color=0a0e14&title_color=39ff88&text_color=c9d1d9&border_color=39ff88&hide_border=false" alt="Muhammed Aflah's most used languages" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aflahalungal77&theme=dark&background=0a0e14&stroke=39ff88&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&border=39ff88" alt="Muhammed Aflah's GitHub streak" width="60%" />
+
+</div>
+
+<br/>
+
+## 🟩 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aflahalungal77&theme=react-dark&bg_color=0a0e14&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true" alt="Muhammed Aflah's contribution activity graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophy Room
+
+<img src="https://github-profile-trophy.vercel.app/?username=aflahalungal77&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Muhammed Aflah's GitHub trophies" />
+
+</div>
+
+<br/>
+
+## 💭 Developer Mindset
+
+<div align="center">
+
+> "Build. Break. Learn. Rebuild."
+
+</div>
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<!-- Replace href="#" with your actual URLs -->
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=vercel&logoColor=39ff88" alt="Portfolio" /></a>
+<a href="https://github.com/aflahalungal77"><img src="https://img.shields.io/badge/GitHub-0a0e14?style=for-the-badge&logo=github&logoColor=39ff88" alt="GitHub" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=39ff88" alt="LinkedIn" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-0a0e14?style=for-the-badge&logo=instagram&logoColor=39ff88" alt="Instagram" /></a>
+<a href="mailto:aflahalungal77@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e14?style=for-the-badge&logo=gmail&logoColor=39ff88" alt="Email" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!--
+  ============================================================
+  FOOTER BANNER — OPTION A (URL-based placeholder, replace this)
+  ============================================================
+-->
+<img src="https://via.placeholder.com/1500x400/0a0e14/39ff88?text=Thanks+for+visiting+my+profile!" alt="Pixel-art footer banner of a developer coding at night" width="100%" />
+
+**Thanks for visiting my profile!**
+
+### Keep building 🚀
+
+</div>
