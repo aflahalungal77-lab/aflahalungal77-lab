@@ -1,232 +1,201 @@
-<div align="center">
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-ed8b-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<!--
-  ============================================================
-  HERO BANNER — OPTION A (URL-based placeholder, replace this)
-  ============================================================
-  Swap the src below with your own banner image once generated
-  (see OPTION B prompt in the setup notes / delivery summary).
-  Recommended size: 1500x500 (16:9-ish wide banner).
--->
-<img src="https://via.placeholder.com/1500x500/0a0e14/39ff88?text=AF_CODES+%7C+DEVELOPER+WORLD" alt="AF_CODES pixel-art developer world banner" width="100%" />
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Muhammed Aflah</strong>
+</h1>
 
-<br/>
+<h3>Full Stack Developer | MERN Stack • Next.js • TypeScript</h3>
 
-# 👋 Hi, I'm Muhammed Aflah
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-### Full Stack Developer&nbsp;|&nbsp;MERN Stack&nbsp;|&nbsp;Next.js
+  <p>
+    I'm a full-stack developer focused on building modern, scalable and
+    production-oriented web applications.
+  </p>
 
-I'm a Full Stack Developer focused on building modern, scalable and user-friendly web applications. I enjoy turning ideas into real products and continuously improving my skills across frontend, backend, databases and software engineering — while steadily building toward AI Engineering.
+  <p>
+    I enjoy working across the stack — from building clean and responsive
+    interfaces with React to developing secure REST APIs and backend systems
+    with Node.js, Express and MongoDB.
+  </p>
 
-<br/>
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻_MERN_Stack_Developer-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Building_&_Learning-1e1e2e?style=for-the-badge" />
+  </p>
 
-<img src="https://img.shields.io/badge/Location-Kerala%2C%20India-1a1a2e?style=for-the-badge&logo=googlemaps&logoColor=39ff88&labelColor=0a0e14" alt="Location: Kerala, India" />
-<img src="https://img.shields.io/badge/Stack-MERN-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=39ff88&labelColor=0a0e14" alt="MERN Stack" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-1a1a2e?style=for-the-badge&logo=git&logoColor=39ff88&labelColor=0a0e14" alt="Open to Collaboration" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1a1a2e?style=for-the-badge&logo=react&logoColor=39ff88&labelColor=0a0e14" alt="Full Stack Development" />
+<h3>🌐 Connect</h3>
 
-</div>
+<p align="left">
 
-<br/>
+  <a href="https://github.com/aflahalungal">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  █▀▀ █▀▀ █▀▀ █▀█ █▀▄ █▀▀ █▀▀   █▀▀ █▀█ ▀█▀ █▀▀ █▀█ █ █▄ █ █▀▀
-│  █▀▀ █▀░ █░░ █░█ █░█ █▀▀ ▀▀█   █▀▀ █░█ ░█░ █▀▀ █▀▄ █ █░▀█ █░█
-│  ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀▀░ ▀▀▀ ▀▀▀   ▀▀▀ ▀░▀ ░▀░ ▀▀▀ ▀░▀ ▀ ▀░░▀ ▀▀▀
-│                                                              │
-│   > loading world...  AF_CODES.world                        │
-│   > player: Muhammed Aflah                                   │
-│   > class: Full Stack Developer                              │
-│   > current quest: MERN Stack → AI Engineering               │
-└──────────────────────────────────────────────────────────┘
-```
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<br/>
+  <a href="mailto:aflahalungal77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-## ⛏️ About Me
+</p>
 
-- 🚀 Full Stack Developer, building end-to-end web applications
-- ⚛️ Comfortable across React and Next.js on the frontend
-- 🟢 Backend development with Node.js and Express.js
-- 🍃 Database design and management with MongoDB
-- 🔐 Focused on authentication and API security
-- 🧠 Currently strengthening Data Structures & Algorithms
-- 🤖 Exploring AI Engineering as a long-term direction
-- 💡 Interested in building real-world, production-ready products
-- 🌍 Based in Kerala, India
-
-<br/>
-
-## 🛠️ Tools & Inventory
-
-<div align="center">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" alt="Frontend tech stack icons" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend tech stack icons" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mongodb" alt="Database tech stack icons" />
-
-**Programming Languages**
-
-<img src="https://skillicons.dev/icons?i=js,python,java,c" alt="Programming language icons" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer tools icons" />
+  <img src="https://komarev.com/ghpvc/?username=aflahalungal&style=flat-square&color=blue" alt="Profile Visits"/>
 
 </div>
 
-<br/>
+<br clear="all" />
 
-## 🌱 Currently Learning
+---
 
-Progress bars below are self-assessed personal indicators, not formal certifications.
+## 🛠️ Skills
 
-```
-🟩 MERN Stack             ████████████████░░░░  80%
-⚛️ Advanced React          ██████████████░░░░░░  70%
-▲  Next.js                 ████████████░░░░░░░░  60%
-🧠 DSA                     ██████████░░░░░░░░░░  50%
-🤖 AI Engineering          ██████░░░░░░░░░░░░░░  30%
-```
-
-<br/>
-
-## 🏗️ Projects I've Built
+<p align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🛒 PrayMart
-A production-oriented ecommerce platform built for real-world usage.
+<td width="50%" align="center">
 
-**Stack:** MERN · Next.js · MongoDB · Razorpay
+<h3>💻 Languages</h3>
 
-**Highlights**
-- Authentication with role-based access (Customer / Partner / Admin)
-- Product management, cart, and order flows
-- Razorpay payment integration with server-side verification
-- Webhook handling for payment events
-- Admin dashboard for operations
-
-`[Live Demo]` &nbsp;·&nbsp; `[Source Code]`
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,java" />
 
 </td>
-<td width="50%" valign="top">
 
-### 💼 AF_CODES Portfolio
-A premium personal developer portfolio site showcasing projects, skills, and contact information.
+<td width="50%" align="center">
 
-**Stack:** Next.js · React · MERN ecosystem
+<h3>⚛️ Frontend</h3>
 
-`[Live Demo]` &nbsp;·&nbsp; `[Source Code]`
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🕌 Madarsa Website
-A modern educational platform built for a madarsa community.
+<td width="50%" align="center">
 
-**Highlights**
-- Daily quiz section
-- Model papers and past-year resources
-- Memories, photo, and video galleries
-- About / information section
+<h3>⚙️ Backend</h3>
 
-`[Live Demo]` &nbsp;·&nbsp; `[Source Code]`
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 </td>
-<td width="50%" valign="top">
 
-### 🧱 More builds coming soon
-New quests are always in progress — more projects will be added here as they ship.
+<td width="50%" align="center">
+
+<h3>🗄️ Database</h3>
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🧰 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>📚 Currently Learning</h3>
+
+<p>
+Next.js • TypeScript • DSA • Backend Security • System Design
+</p>
+
+</td>
+
+</tr>
+
 </table>
 
-<br/>
+</p>
 
-## 📊 Developer Stats
+---
 
-<div align="center">
+## 🚀 Featured Projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=aflahalungal77&show_icons=true&theme=dark&bg_color=0a0e14&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&border_color=39ff88&hide_border=false" alt="Muhammed Aflah's GitHub stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflahalungal77&layout=compact&theme=dark&bg_color=0a0e14&title_color=39ff88&text_color=c9d1d9&border_color=39ff88&hide_border=false" alt="Muhammed Aflah's most used languages" width="48%" />
+### 🛒 PrayMart
 
-<br/>
+A production-focused e-commerce platform built with a complete
+customer, partner and admin workflow.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aflahalungal77&theme=dark&background=0a0e14&stroke=39ff88&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&border=39ff88" alt="Muhammed Aflah's GitHub streak" width="60%" />
+**Tech:** React • Node.js • Express • MongoDB • JWT • Razorpay
 
-</div>
+**Features:**
+- Authentication & role-based authorization
+- Customer & partner workflows
+- Product management
+- Cart & order management
+- Razorpay payment integration
+- Server-side payment verification
+- Admin dashboard
 
-<br/>
+---
 
-## 🟩 Contribution Activity
+### 🍰 Ajwa Bakery
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aflahalungal77&theme=react-dark&bg_color=0a0e14&color=39ff88&line=39ff88&point=ffffff&area=true&hide_border=true" alt="Muhammed Aflah's contribution activity graph" width="100%" />
-</div>
+A responsive bakery website focused on clean UI,
+performance and user experience.
 
-<br/>
+**Tech:** HTML • CSS • JavaScript
 
-<div align="center">
+---
 
-### 🏆 Trophy Room
-
-<img src="https://github-profile-trophy.vercel.app/?username=aflahalungal77&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" alt="Muhammed Aflah's GitHub trophies" />
-
-</div>
-
-<br/>
-
-## 💭 Developer Mindset
+## 📊 GitHub Stats
 
 <div align="center">
 
-> "Build. Break. Learn. Rebuild."
+<img src="https://github-readme-stats.vercel.app/api?username=aflahalungal&show_icons=true&theme=dark&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=aflahalungal&theme=dark&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-<div align="center">
+- Building production-ready full-stack applications
+- Improving backend architecture
+- Learning TypeScript
+- Exploring Next.js
+- Practicing Data Structures & Algorithms
+- Improving application security
+- Writing cleaner and more maintainable code
 
-<!-- Replace href="#" with your actual URLs -->
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0a0e14?style=for-the-badge&logo=vercel&logoColor=39ff88" alt="Portfolio" /></a>
-<a href="https://github.com/aflahalungal77"><img src="https://img.shields.io/badge/GitHub-0a0e14?style=for-the-badge&logo=github&logoColor=39ff88" alt="GitHub" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0a0e14?style=for-the-badge&logo=linkedin&logoColor=39ff88" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-0a0e14?style=for-the-badge&logo=instagram&logoColor=39ff88" alt="Instagram" /></a>
-<a href="mailto:aflahalungal77@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e14?style=for-the-badge&logo=gmail&logoColor=39ff88" alt="Email" /></a>
+---
 
-</div>
+## 📈 Developer Journey
 
-<br/>
-
-<div align="center">
-
-<!--
-  ============================================================
-  FOOTER BANNER — OPTION A (URL-based placeholder, replace this)
-  ============================================================
--->
-<img src="https://via.placeholder.com/1500x400/0a0e14/39ff88?text=Thanks+for+visiting+my+profile!" alt="Pixel-art footer banner of a developer coding at night" width="100%" />
-
-**Thanks for visiting my profile!**
-
-### Keep building 🚀
-
-</div>
+```text
+HTML / CSS
+     ↓
+JavaScript
+     ↓
+React
+     ↓
+Node.js + Express
+     ↓
+MongoDB
+     ↓
+MERN Stack
+     ↓
+TypeScript + Next.js
+     ↓
+Advanced Full Stack Development
