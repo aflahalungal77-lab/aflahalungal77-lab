@@ -31,7 +31,7 @@
 
 <p align="left">
 
-  <a href="https://github.com/aflahalungal">
+  <a href="https://github.com/aflahalungal77-lab">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -159,11 +159,11 @@ performance and user experience.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aflahalungal&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=aflahalungal77-lab&show_icons=true&theme=dark&hide_border=true" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aflahalungal&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=aflahalunga77-labl&theme=dark&hide_border=true" />
 
 </div>
 
