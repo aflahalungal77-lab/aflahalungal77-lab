@@ -2,23 +2,29 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Muhammed Aflah</strong>
+  Hi, I'm <strong>Muhammed Aflah Alungal</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN Stack • Next.js • TypeScript</h3>
+<h3>Young Software Developer | MERN Stack Developer • Next.js • TypeScript • Builder</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer focused on building modern, scalable and
-    production-oriented web applications.
+    I'm <strong>Muhammed Aflah Alungal</strong>, a young software developer
+    and builder from Malappuram, Kerala, India, focused on building modern,
+    scalable and production-oriented web applications.
   </p>
 
   <p>
     I enjoy working across the stack — from building clean and responsive
     interfaces with React to developing secure REST APIs and backend systems
     with Node.js, Express and MongoDB.
+  </p>
+
+  <p>
+    I'm also the <strong>Co-Founder & Associate Director of Z Alpha Thinkers Community</strong>,
+    a community focused on young builders, developers and technology enthusiasts.
   </p>
 
   <p>
@@ -35,8 +41,12 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/aflah-a-4827a3421/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://aflahha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
   <a href="mailto:aflahalungal77@gmail.com">
@@ -45,7 +55,7 @@
 
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=aflahalungal&style=flat-square&color=blue" alt="Profile Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=aflahalungal77-lab&style=flat-square&color=blue" alt="Profile Visits"/>
 
 </div>
 
@@ -155,6 +165,16 @@ performance and user experience.
 
 ---
 
+## 🤝 Z Alpha Thinkers Community
+
+I'm the **Co-Founder & Associate Director of Z Alpha Thinkers Community**,
+a community focused on young builders, developers and technology enthusiasts.
+
+The community aims to connect young people interested in technology,
+software development, projects and building real-world products.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -163,7 +183,7 @@ performance and user experience.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=aflahalunga77-labl&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=aflahalungal77-lab&theme=dark&hide_border=true" />
 
 </div>
 
