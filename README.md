@@ -136,32 +136,6 @@ Next.js • TypeScript • DSA • Backend Security • System Design
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 PrayMart
-
-A production-focused e-commerce platform built with a complete
-customer, partner and admin workflow.
-
-**Tech:** React • Node.js • Express • MongoDB • JWT • Razorpay
-
-**Features:**
-- Authentication & role-based authorization
-- Customer & partner workflows
-- Product management
-- Cart & order management
-- Razorpay payment integration
-- Server-side payment verification
-- Admin dashboard
-
----
-
-### 🍰 Ajwa Bakery
-
-A responsive bakery website focused on clean UI,
-performance and user experience.
-
-**Tech:** HTML • CSS • JavaScript
 
 ---
 
