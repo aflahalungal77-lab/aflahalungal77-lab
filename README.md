@@ -102,7 +102,7 @@
 
 <h3>🗄️ Database</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase" />
 
 </td>
 
