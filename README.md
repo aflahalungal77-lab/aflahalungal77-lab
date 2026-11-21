@@ -172,25 +172,6 @@ A collection of selected work, technologies, and things I'm learning and buildin
 
 </details>
 
-## `05 / CURRENT LEARNING PATH`
-
-```text
-Python & APIs
-     │
-     ▼
-Prompt Engineering + Structured Outputs
-     │
-     ▼
-Machine Learning Fundamentals
-     │
-     ▼
-Neural Networks + Deep Learning
-     │
-     ▼
-Build AI-powered Applications
-```
-
-> I want to understand the logic behind the tools I use — not just make the output work.
 
 ---
 
