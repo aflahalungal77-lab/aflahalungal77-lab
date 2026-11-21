@@ -140,27 +140,6 @@ I list technologies here to show what I have worked with and what I'm actively l
 
 ---
 
-## ✦ Current learning path
-
-<table>
-<tr>
-<td align="center" width="20%"><strong>01</strong><br/>Python & APIs</td>
-<td align="center" width="20%"><strong>02</strong><br/>Prompting & JSON</td>
-<td align="center" width="20%"><strong>03</strong><br/>ML fundamentals</td>
-<td align="center" width="20%"><strong>04</strong><br/>Neural networks</td>
-<td align="center" width="20%"><strong>05</strong><br/>AI applications</td>
-</tr>
-</table>
-
-My approach is simple:
-
-<div align="center">
-
-**LEARN**　→　**CODE**　→　**UNDERSTAND**　→　**EXPERIMENT**　→　**BUILD**　→　**REVIEW**
-
-</div>
-
-I want to be able to explain the systems I build, make changes independently, and debug issues — whether the code was written by me, with AI assistance, or both.
 
 ---
 
